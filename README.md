@@ -4,7 +4,7 @@ A new F1 web app using Ergast API.
 
 ## Build Dosyasi
 
-OdevBuilds klasöründen web build’ine ve apk dosyasına ulaşabilirsiniz.
+OdevBuild klasöründen web build’ine ve apk dosyasına ulaşabilirsiniz.
 Malesef herhangi bir apple ürününe ulaşamadığım için IOS build’i
 alamadım.
 
