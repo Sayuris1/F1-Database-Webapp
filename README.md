@@ -1,16 +1,15 @@
 # flutter_f1
 
-A new Flutter project.
+A new F1 web app using Ergast API.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+OdevBuilds klasöründen web build’ine ve apk dosyasına ulaşabilirsiniz.
+Malesef herhangi bir apple ürününe ulaşamadığım için IOS build’i
+alamadım.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eğer uygulama yüklenme ekranında takılı kalırsa internetinizin olduğuna
+emin olunuz. Eğer internetiniz varsa http://ergast.com/mrd/ web sitesinden
+API’in durumunu kontrol ediniz. Bazen yoğunluktan dolayı çökebiliyor.
+Böyle bir durumda 1-2 saat sonra tekrar deniyebilirsiniz.
