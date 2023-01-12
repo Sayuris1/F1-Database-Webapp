@@ -1,8 +1,8 @@
-# flutter_f1
+# F1 Database Web App
 
 A new F1 web app using Ergast API.
 
-## Getting Started
+## Build Dosyasi
 
 OdevBuilds klasöründen web build’ine ve apk dosyasına ulaşabilirsiniz.
 Malesef herhangi bir apple ürününe ulaşamadığım için IOS build’i
