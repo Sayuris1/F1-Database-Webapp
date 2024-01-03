@@ -2,14 +2,11 @@
 
 A new F1 web app using Ergast API.
 
-## Build Dosyasi
+## Build File
 
-OdevBuild klasöründen web build’ine ve apk dosyasına ulaşabilirsiniz.
-Malesef herhangi bir apple ürününe ulaşamadığım için IOS build’i
-alamadım.
+You can access the web build and apk file from the OdevBuild folder.
+Unfortunately, I can't access any apple product, so I could't get the IOS build.
 
 
-Eğer uygulama yüklenme ekranında takılı kalırsa internetinizin olduğuna
-emin olunuz. Eğer internetiniz varsa http://ergast.com/mrd/ web sitesinden
-API’in durumunu kontrol ediniz. Bazen yoğunluktan dolayı çökebiliyor.
-Böyle bir durumda 1-2 saat sonra tekrar deniyebilirsiniz.
+If the app gets stuck on the loading screen, you need to make sure you have an internet connection. If you have internet access, please check the status of the API. Sometimes it may crash due to intensity.
+In such a case, you can try again after 1-2 hours.
